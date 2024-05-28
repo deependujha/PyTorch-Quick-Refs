@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://deependujha.github.io/PyTorch-Quick-Refs/</loc>
+         <lastmod>2024-05-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://deependujha.github.io/PyTorch-Quick-Refs/01-pytorch/</loc>
+         <lastmod>2024-05-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://deependujha.github.io/PyTorch-Quick-Refs/01-pytorch/01-checkpoint/01-saving-checkpoint/</loc>
+         <lastmod>2024-05-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://deependujha.github.io/PyTorch-Quick-Refs/02-python/01-concurrency/01-threadpool/</loc>
+         <lastmod>2024-05-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
