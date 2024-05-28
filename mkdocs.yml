@@ -132,3 +132,6 @@ nav:
     - Basic Concepts:
       - Checkpoint:
         - Saving Checkpoint in PyTorch: 01-pytorch/01-checkpoint/01-saving-checkpoint.md
+  - Python:
+    - Concurrency:
+      - ThreadPool: 02-python/01-concurrency/01-threadpool.md
